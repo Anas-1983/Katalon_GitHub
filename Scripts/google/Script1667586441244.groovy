@@ -27,7 +27,5 @@ WebUI.sendKeys(findTestObject('Object Repository/Lays (Record)/input__q'), Keys.
 
 WebUI.click(findTestObject('Object Repository/Lays (Record)/h3_Lays Home'))
 
-WebUI.click(findTestObject('Object Repository/Lays (Record)/a_Open Menu MobileClose Menu Mobile'))
-
-WebUI.click(findTestObject('Object Repository/Lays (Record)/a_Recipes'))
+WebUI.closeBrowser()
 
