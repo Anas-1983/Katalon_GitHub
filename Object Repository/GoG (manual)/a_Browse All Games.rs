@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Browse All Games</name>
+   <tag></tag>
+   <elementGuidId>ef04bcde-024e-4b0c-b057-20ab2e65a363</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.download-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='text-20']/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f6f04199-77bb-4155-8c6f-576503861a00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>download-btn</value>
+      <webElementGuid>0904b1a4-a3d5-4afd-8ee4-36d512a5a4b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://freegogpcgames.com/a-z-games-list/</value>
+      <webElementGuid>456bc1df-e2bb-498e-9000-aa3ac6692430</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Browse All Games</value>
+      <webElementGuid>1bb3633d-6fc1-4fe3-9dcf-08806e9e2ce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;text-20&quot;)/div[@class=&quot;textwidget&quot;]/div[1]/a[@class=&quot;download-btn&quot;]</value>
+      <webElementGuid>25995b6d-0c36-4f51-bd7d-fea605dfcc09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='text-20']/div/div/a</value>
+      <webElementGuid>6c0a4a93-9eff-4fc1-a792-32db30426b55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Browse All Games')]</value>
+      <webElementGuid>558ecce7-ea95-4f09-aea4-3b1b6908b4e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get DRM-Free GOG PC Games Now!!!'])[1]/following::a[1]</value>
+      <webElementGuid>f403bb6a-1eaa-4587-9bca-007a4ffe0331</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download and install gog DRM-free games on your windows PC!'])[1]/following::a[1]</value>
+      <webElementGuid>3558a153-ab2e-4f33-b47f-f40045eaa035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TasteMaker: Restaurant Simulator (0.2.7)'])[1]/preceding::a[2]</value>
+      <webElementGuid>aa223c8a-74d3-4088-bc85-b2916f542854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Succubus (1.10.16930a +allDLCs)'])[1]/preceding::a[4]</value>
+      <webElementGuid>9c0474be-ae53-4c35-80da-f1f2867f1405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Browse All Games']/parent::*</value>
+      <webElementGuid>101df14a-c2d2-4146-88e7-fc8f61f50d64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://freegogpcgames.com/a-z-games-list/')]</value>
+      <webElementGuid>0be09f3b-9d33-48c4-a6f7-c08c2531092d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/a</value>
+      <webElementGuid>c8fefc77-9df6-49ab-b604-95ab03b03ede</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://freegogpcgames.com/a-z-games-list/' and (text() = 'Browse All Games' or . = 'Browse All Games')]</value>
+      <webElementGuid>6f1d5771-463b-492c-8f90-97ce4c087574</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

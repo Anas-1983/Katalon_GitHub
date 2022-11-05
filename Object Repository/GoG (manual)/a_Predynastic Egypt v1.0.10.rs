@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Predynastic Egypt v1.0.10</name>
+   <tag></tag>
+   <elementGuidId>b18d67a2-38ac-490e-ac29-cc06a088508f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#post-10388 > div.inside-article > header.entry-header > h2.entry-title > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-10388']/div/header/h2/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b1e3d845-4bb4-448d-a040-54b42b18fa99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://freegogpcgames.com/10388/predynastic-egypt/</value>
+      <webElementGuid>c133ae2b-0b93-4454-82dd-d3ea8f7ff153</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>bookmark</value>
+      <webElementGuid>f0d10ff1-49f1-454b-8950-57dee4578409</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Predynastic Egypt v1.0.10</value>
+      <webElementGuid>50ec6505-8562-4ea0-8bea-6269a62a1c41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-10388&quot;)/div[@class=&quot;inside-article&quot;]/header[@class=&quot;entry-header&quot;]/h2[@class=&quot;entry-title&quot;]/a[1]</value>
+      <webElementGuid>5563b86d-0d57-4407-8867-82fbbf9580b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-10388']/div/header/h2/a</value>
+      <webElementGuid>e29e6a03-7465-4614-980a-26c2930b91c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Predynastic Egypt v1.0.10')]</value>
+      <webElementGuid>99063fc3-0c20-4afe-8df7-0b6e0aea7019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dragon’s Lair Trilogy (1.09)'])[1]/following::a[2]</value>
+      <webElementGuid>3d63b27d-dc69-44dd-9b0a-7afb2e618f41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NeuroVoider v57.13 Extended'])[1]/following::a[4]</value>
+      <webElementGuid>b96fffad-216f-4ab6-84f7-7354eebe7f3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interstellaria v1.08.9'])[1]/preceding::a[2]</value>
+      <webElementGuid>7c11e282-efd1-4197-b82b-f9bfcf6b8140</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rogue Wizards'])[1]/preceding::a[4]</value>
+      <webElementGuid>16215ce8-10a2-4bb1-83df-72ab1f6876ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Predynastic Egypt v1.0.10']/parent::*</value>
+      <webElementGuid>7e730ca5-a9c9-4124-b13f-3d934ec6abdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://freegogpcgames.com/10388/predynastic-egypt/')])[2]</value>
+      <webElementGuid>f635566e-bf4c-4131-9bef-c86e3f5f4919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article[25]/div/header/h2/a</value>
+      <webElementGuid>65b2838c-f091-4b9d-9066-0bd30fa6060e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://freegogpcgames.com/10388/predynastic-egypt/' and (text() = 'Predynastic Egypt v1.0.10' or . = 'Predynastic Egypt v1.0.10')]</value>
+      <webElementGuid>0abb3714-7abe-406c-b1c9-a7277ffcfb05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
