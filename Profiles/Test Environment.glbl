@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Test Environment</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>الجمعيات والمنظمات</description>
+      <initValue>'http://eblaepm.no-ip.org:9096/eservices-ui/#/login-external'</initValue>
+      <name>Url_external</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>موظفي راكا</description>
+      <initValue>'http://eblaepm.no-ip.org:9096/eservices-ui/#/login'</initValue>
+      <name>Url_Internal</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>موظف جمعية أو مؤسسة خيرية</description>
+      <initValue>'15000000000'</initValue>
+      <name>Username_ExternalEmployee</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>مدير جمعية أو مؤسسة خيرية</description>
+      <initValue>'19000000000'</initValue>
+      <name>Username_ExternalManager</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>موظف تراخيص 1 إيبلا</description>
+      <initValue>'eblaluser1'</initValue>
+      <name>username_LicensingUser1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>موظف تراخيص 2 إيبلا</description>
+      <initValue>'eblaluser2'</initValue>
+      <name>username_LicensingUser2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>رئيس قسم التراخيص والدعم</description>
+      <initValue>'racauser2'</initValue>
+      <name>username_LicensingHead</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>مدير التراخيص والدعم</description>
+      <initValue>'racauser4'</initValue>
+      <name>username_LicensingManager</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ebla'</initValue>
+      <name>password1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'123456'</initValue>
+      <name>password2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>موظف+اسم الجمعية</description>
+      <initValue>'موظف قطر الخيرية'</initValue>
+      <name>Verify_ExternalEmployee</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>مدير+اسم الجمعية</description>
+      <initValue>'مدير قطر الخيرية'</initValue>
+      <name>Verify_ExternalManager</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'موظف التراخيص 1'</initValue>
+      <name>Verify_LicensingUser1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'موظف التراخيص 2'</initValue>
+      <name>Verify_LicensingUser2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'رئيس قسم التراخيص'</initValue>
+      <name>Verify_LicensingHead</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'مدير التراخيص و الدعم'</initValue>
+      <name>Verify_LicensingManager</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>رقم الطلب الديناميكي</description>
+      <initValue>''</initValue>
+      <name>RequestNumber</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Item (request) location</name>
+   <tag></tag>
+   <elementGuidId>06de51b7-efa2-47d7-b866-9a781d79ee34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='tab-list-2']/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>27e29a15-bd8a-4f7e-9eed-9716f055e2a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>page</value>
+      <webElementGuid>45580fce-d4f8-4c92-8830-bbd9c7194643</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>6929f725-3ca7-44a0-8689-3cc264605c66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>d754c251-63ff-419f-84c9-e46c52af9507</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link position-relative tab-link</value>
+      <webElementGuid>7873e7e4-506d-4a98-bd68-ba9ce6893e65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>مكان العنصر </value>
+      <webElementGuid>238bd62a-2c26-4e29-ad81-e699702990dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-list-2&quot;)/li[@class=&quot;nav-item ng-star-inserted&quot;]/a[@class=&quot;nav-link position-relative tab-link&quot;]</value>
+      <webElementGuid>53d5d84c-ff5f-4c38-a4d3-82985618be60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='tab-list-2']/li[2]/a</value>
+      <webElementGuid>b19b7c57-178c-49e8-9f82-bf2a812eaa93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'مكان العنصر')]</value>
+      <webElementGuid>08436137-8de3-4d9a-8149-1735277f2e68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الإجراءات'])[2]/following::a[1]</value>
+      <webElementGuid>a9142ce7-35bc-4676-b2e9-e4e4a094617e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الإجراءات'])[1]/following::a[2]</value>
+      <webElementGuid>18ab28d3-2518-4722-8932-c425b4b129ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Viewed'])[1]/preceding::a[1]</value>
+      <webElementGuid>1ab019a6-d6ba-45ae-b583-b8b1a73608f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Updated'])[1]/preceding::a[2]</value>
+      <webElementGuid>ae43e5ab-b18b-48f0-98fd-ac7c75679bd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='مكان العنصر']/parent::*</value>
+      <webElementGuid>a130a8d5-52f5-4068-84e8-061e5659be0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//log-viewer/tabs-list/ul/li[2]/a</value>
+      <webElementGuid>0018c7a0-a3a5-4ade-88f1-3d8fca7037d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'مكان العنصر ' or . = 'مكان العنصر ')]</value>
+      <webElementGuid>e50a1e07-2504-4104-9aee-b8992181e753</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

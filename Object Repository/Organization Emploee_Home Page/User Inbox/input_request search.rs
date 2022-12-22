@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_request search</name>
+   <tag></tag>
+   <elementGuidId>af17efee-9037-4500-9823-a58c0b1c3832</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.form-control-sm.px-4.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div/app-user-inbox/div/div/app-table/div/table/thead/tr/th/table-header/div/div[7]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>309d2c21-dcd1-4687-ae8b-78da4307359a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-control-sm px-4 ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>b1c29e33-1df9-4b84-bf73-15390dc6dacf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>البحث</value>
+      <webElementGuid>899ea247-ca44-4b7c-8eaf-6fbaa0008ce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;h-100 container-fluid p-3&quot;]/app-user-inbox[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/app-table[1]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;cdk-table table border border-1 ng-star-inserted&quot;]/thead[1]/tr[@class=&quot;cdk-header-row ng-star-inserted&quot;]/th[@class=&quot;cdk-header-cell extra-header cdk-column-extra-header ng-star-inserted&quot;]/table-header[1]/div[@class=&quot;d-flex flex-row justify-content-start align-items-center bg-primary p-2 text-white&quot;]/div[@class=&quot;position-relative&quot;]/input[@class=&quot;form-control form-control-sm px-4 ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>2928d94b-df6d-4dc5-b489-a592d60eda44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div/app-user-inbox/div/div/app-table/div/table/thead/tr/th/table-header/div/div[7]/input</value>
+      <webElementGuid>3141948e-bd9e-41e6-bd84-96cd7061aed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/input</value>
+      <webElementGuid>68fedfa9-32a6-40fa-9317-f8f390f585c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'البحث']</value>
+      <webElementGuid>f3b4ffad-f61e-4862-9b17-278d3ae2bf34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

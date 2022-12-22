@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_First old license button (licenses popup screen)</name>
+   <tag></tag>
+   <elementGuidId>98cebc41-d8c5-4b66-afcb-1a3d70784002</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.grid-action.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ae59a4ad-fb6f-4b81-87b8-637c090456f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>db9c4689-8466-4a86-af23-734b2de09796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary grid-action ng-star-inserted</value>
+      <webElementGuid>3ccb654c-c27d-48a9-981e-cad7f37527eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>أختر</value>
+      <webElementGuid>1099f36b-ee5e-4c65-be44-30da514f8c1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-2&quot;)/app-dialog-container[@class=&quot;ng-tns-c37-37 ng-trigger ng-trigger-dialogContainer ng-star-inserted rounded shadow&quot;]/select-license-popup[@class=&quot;dialog-item ng-star-inserted&quot;]/div[@class=&quot;dialog-content no-fixed-height&quot;]/selected-license-table[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;table-responsive&quot;]/app-table[1]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;cdk-table table table-striped table-bordered caption-top ng-star-inserted&quot;]/tbody[1]/tr[@class=&quot;cdk-row ng-star-inserted&quot;]/td[@class=&quot;cdk-cell table-actions cdk-column-actions ng-star-inserted&quot;]/grid-actions[1]/div[@class=&quot;flex-row d-flex align-items-center&quot;]/button[@class=&quot;btn btn-primary grid-action ng-star-inserted&quot;]</value>
+      <webElementGuid>ef1db6da-e8ca-4ef0-ae2d-44d1a5b5db65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>0147ad81-be8e-4379-b5bf-d5952404ad74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-2']/app-dialog-container/select-license-popup/div[2]/selected-license-table/div/div/div/app-table/div/table/tbody/tr/td[6]/grid-actions/div/button</value>
+      <webElementGuid>748c7dfc-a959-4554-9d9c-2e303b8a1d27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='سارية'])[1]/following::button[1]</value>
+      <webElementGuid>9046de7e-1c26-49c4-9753-f0b9c6a7eebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FCL/911/2022/43'])[1]/following::button[1]</value>
+      <webElementGuid>537b30b2-e64b-42b0-a7ee-0916cbc8980a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='عربي'])[2]/preceding::button[2]</value>
+      <webElementGuid>d4805c51-57ed-44f7-9bf0-a9fe130da9e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='english'])[2]/preceding::button[2]</value>
+      <webElementGuid>6fccd6a9-395c-468c-b646-ff3c6736cafb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//grid-actions/div/button</value>
+      <webElementGuid>8f3a893b-7ac2-45b6-b34d-aef45029f294</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'أختر' or . = 'أختر')]</value>
+      <webElementGuid>84f57e84-37cd-4359-8568-a495444ffb6a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
